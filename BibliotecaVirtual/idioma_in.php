@@ -50,5 +50,5 @@ $texto['excluir'] = "Error! It was not possible to delete the book";
 /*cadastrar autor*/
 $texto['sucautor'] = "Successfully registered author!";
 $texto['autorr'] = "Error! It was not possible to register the author";
-$texto[''] = "";
+$texto['registrarautor'] = "REGISTRAR AUTOR";
 $texto[''] = "";
