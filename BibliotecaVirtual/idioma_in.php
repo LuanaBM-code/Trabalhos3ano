@@ -16,7 +16,7 @@ $texto['cancela'] = "CANCEL";
 /*  restrita  */
 $texto['sair'] = "LOGOUT";
 $texto['livros'] = "Books";
-$texto['biblioteca'] = "LIBRARY";
+$texto['biblioteca'] = "VIRTUAL LIBRARY";
 $texto['criarAutor'] = "Create author";
 $texto['criarLivro'] = "Create book";
 $texto['vautores'] = "View authors";
@@ -27,7 +27,6 @@ $texto['autor'] = "Author";
 $texto['editarr'] = "Edit";
 $texto['deletar'] = "Delete";
 $texto['restritaSLivro'] = "There are no registered books";
-$texto['autores'] = "Authors";
 
 
 /*cadastro livro */
@@ -47,8 +46,8 @@ $texto['idn'] = "No ID found";
 $texto['sucexcluir'] = "Successfully deleted book!";
 $texto['excluir'] = "Error! It was not possible to delete the book";
 
-/*cadastrar autor*/
+/*cadastrar/listar autor*/
 $texto['sucautor'] = "Successfully registered author!";
 $texto['autorr'] = "Error! It was not possible to register the author";
-$texto[''] = "";
-$texto[''] = "";
+$texto['autores'] = "REGISTERED AUTHORS";
+$texto['registrarautor'] = "REGISTER AUTHOR";
