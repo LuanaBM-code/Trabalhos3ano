@@ -79,7 +79,7 @@ ADMINSTRADOR
                                                 <td><?= $livro['Nome']; ?></td>
                                                 <td>
                                                     <a href="<?=$livro['Pdf']; ?>" target='_blank' class="btn btn-info btn-sm">Download</a>
-                                                    <a href="editarlivro.php?idLivro=<?= $livro['idLivro']; ?>" class="btn btn-success btn-sm"><?=$texto['editar']?></a>
+                                                    <a href="editarlivro.php?idLivro=<?= $livro['idLivro']; ?>" class="btn btn-success btn-sm"><?=$texto['editarr']?></a>
                                                     <form action="code.php" method="POST" class="d-inline">
                                                         <button type="submit" name="excluirlivro" value="<?=$livro['idLivro'];?>" class="btn btn-danger btn-sm"><?=$texto['deletar']?></button>
                                                     </form>
