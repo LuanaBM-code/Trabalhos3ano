@@ -18,7 +18,7 @@ $texto['cancela'] = "CANCELAR";
 /*  restrita  */
 $texto['sair'] = "SAIR";
 $texto['livros'] = "Livros";
-$texto['biblioteca'] = "BIBLIOTECA";
+$texto['biblioteca'] = "BIBLIOTECA VIRTUAL";
 $texto['criarAutor'] = "Cadastrar autor";
 $texto['criarLivro'] = "Cadastrar livro";
 $texto['vautores'] = "Visualizar autores";
@@ -26,10 +26,9 @@ $texto['titulo'] = "Titulo";
 $texto['genero'] = "Gênero";
 $texto['ano'] = "Ano";
 $texto['autor'] = "Autor";
-$texto['editar'] = "Editar";
+$texto['editarr'] = "Editar";
 $texto['deletar'] = "Deletar";
 $texto['restritaSLivro'] = "Não há livros registrados";
-$texto['autores'] = "Autores";
 
 /*cadastro livro */
 $texto['registrar'] = "REGISTRAR LIVRO";
@@ -51,3 +50,5 @@ $texto['excluir'] = "Não foi possivel excluir o livro";
 /*cadastrarautor*/
 $texto['sucautor'] = "Autor cadastrado com sucesso!";
 $texto['autorr'] = "Ocorreu um erro! Não foi possível cadastrar o autor.";
+$texto['autores'] = "AUTORES CADASTRADOS";
+$texto['registrarautor'] = "REGISTRAR AUTOR";
