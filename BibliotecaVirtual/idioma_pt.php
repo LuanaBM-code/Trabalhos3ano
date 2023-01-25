@@ -19,7 +19,6 @@ $texto['cancela'] = "CANCELAR";
 $texto['sair'] = "SAIR";
 $texto['livros'] = "Livros";
 $texto['biblioteca'] = "BIBLIOTECA VIRTUAL";
-$texto['criarAutor'] = "Cadastrar autor";
 $texto['criarLivro'] = "Cadastrar livro";
 $texto['vautores'] = "Visualizar autores";
 $texto['titulo'] = "Titulo";
