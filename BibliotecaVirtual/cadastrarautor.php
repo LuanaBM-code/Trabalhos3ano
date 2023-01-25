@@ -19,7 +19,7 @@ if(isset($_SESSION['idioma'])){
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
-    <title><?=$texto['autor']?>.</title>
+    <title><?=$texto['autor']?></title>
 </head>
 <body>
   
@@ -31,7 +31,7 @@ if(isset($_SESSION['idioma'])){
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <h4><?=$texto['registrar']?>
+                        <h4><?=$texto['registrarautor']?>
                         <a href="listarautor.php" class="btn btn-danger float-end"><?=$texto['voltar']?></a>
                         </h4>
                     </div>
