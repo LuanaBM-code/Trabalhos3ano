@@ -18,7 +18,7 @@ $texto['cancela'] = "CANCELAR";
 /*  restrita  */
 $texto['sair'] = "SAIR";
 $texto['livros'] = "Livros";
-$texto['biblioteca'] = "BIBLIOTECA";
+$texto['biblioteca'] = "BIBLIOTECA VIRTUAL";
 $texto['criarAutor'] = "Cadastrar autor";
 $texto['criarLivro'] = "Cadastrar livro";
 $texto['vautores'] = "Visualizar autores";
