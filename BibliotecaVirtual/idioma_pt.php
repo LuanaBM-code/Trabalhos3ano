@@ -51,3 +51,4 @@ $texto['excluir'] = "Não foi possivel excluir o livro";
 /*cadastrarautor*/
 $texto['sucautor'] = "Autor cadastrado com sucesso!";
 $texto['autorr'] = "Ocorreu um erro! Não foi possível cadastrar o autor.";
+$texto['registrarautor'] = "REGISTRAR AUTOR";
