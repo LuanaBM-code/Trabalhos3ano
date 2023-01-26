@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet">
+    <title>Trabalho</title>
+</head>
+<body>
+    <form method="get" action="#"> 
+        <fieldset>
+            <label class="container">
+                <h1>DECIMAL PARA CÓDIGO MORSE</h1>
+                <h4>Insira a seguir os dois números decimais que deseja e selecione a operação correspondente. Após clicar 
+                    em "Calcular" será mostrado o resultado em decimal e código morse.</h4>
+                <label>
+                <label for="primeiron">Número:</label>
+                <input type="number" id="primeiron" name="primeiron" class="placeholder" placeholder="Informe o primeiro nº" required>
+                </label>
+                <br>
+                <label>
+                <label for="segundon">Número:</label>
+                <input type="number" id="segundon" name="segundon" class="placeholder"placeholder="Informe o segundo nº" required>
+                </label>
+                <br>
+                <label>
+                <label for="operacao">Operação:</label>
+                <select id="operacao" class="placeholder" name="operacao">
+                <option value="1">Soma</option>
+                <option value="2">Subtração</option>
+                <option value="3">Multiplicação</option>
+                <option value="4">Divisão</option>
+                </select>
+                </label>
+                <br>
+                <button><b>Calcular</b></button>
+                <br>
+                <div class="resultado"></div>
+                <br>
+                <label>
+                <label class="tema_light" for="light"><b>Modo Claro</b></label>
+                <input type="radio" id="light" name="modo" value="light">
+                <label class="tema_dark" for="dark"><b>Modo Escuro</b></label>
+                <input type="radio" id="dark" name="modo" value="dark"> 
+                </label>
+                <br>
+                <p class="assinatura"><b>Desenvolvido por Luana Bruch Maurer</b><br><b>3º - Técnico em Informática</b>
+                <br><b>Professor Vinicius Ferreira</b></p>
+            </label>
+        </fieldset>
+    </form>
+
+<script src="script.js"></script>
+</body>
+</html>
