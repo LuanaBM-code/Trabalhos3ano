@@ -1,5 +1,5 @@
 # Realizado por: Allana dos Santos Morgenstern e Luana Bruch Maurer.
-Trabalho de conclusão de trimestre e ano letivo.
+Trabalho de conclusão do terceiro trimestre e ano letivo.
 
 Esse sistema de biblioteca online serve para fazer o download de livros em formato .PDF, sendo administrador você também poderá adicionar, editar e excluir livros. 
 
